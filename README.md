@@ -40,10 +40,6 @@ Columns:
 
 The code for our enthymeme detection and reconstruction experiments can be found in the "/notebooks" folder.
 
-## Model weights
-
-We will pubish the weights of all used models upon acceptance, since they exceed the allowable file size for the submission. 
-
 
 ## References
 
